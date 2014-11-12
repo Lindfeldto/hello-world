@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-hello-world
+Setting up Github
 
-Setting up Git
+This is version 2!
